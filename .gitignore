@@ -1,0 +1,11 @@
+.DS_Store
+target
+*.log
+node_modules
+build
+dist
+*.tmp
+
+# Below this is managed by meta
+/javascript/
+/javascript/deno/

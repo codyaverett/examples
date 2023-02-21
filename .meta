@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "javascript": "git@github.com:codyaverett/javascript_examples.git",
+    "javascript/deno": "git@github.com:codyaverett/deno_examples.git"
+  }
+}
