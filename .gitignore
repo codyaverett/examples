@@ -8,4 +8,11 @@ dist
 
 # Below this is managed by meta
 /javascript/
-/javascript/deno/
+/python/
+/rust/
+/sql/
+/shell/
+/java/
+/solidity/
+/go/
+/c++/

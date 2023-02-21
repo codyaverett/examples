@@ -1,6 +1,13 @@
 {
   "projects": {
     "javascript": "git@github.com:codyaverett/javascript_examples.git",
-    "javascript/deno": "git@github.com:codyaverett/deno_examples.git"
+    "python": "git@github.com:codyaverett/python_examples.git",
+    "rust": "git@github.com:codyaverett/rust_examples.git",
+    "sql": "git@github.com:codyaverett/sql_examples.git",
+    "shell": "git@github.com:codyaverett/shell_examples.git",
+    "java": "git@github.com:codyaverett/java_examples.git",
+    "solidity": "git@github.com:codyaverett/solidity_examples.git",
+    "go": "git@github.com:codyaverett/go_examples.git",
+    "c++": "git@github.com:codyaverett/cpp_examples.git"
   }
 }
